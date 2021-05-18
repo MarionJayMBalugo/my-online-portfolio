@@ -1,2 +1,2 @@
 # my-online-portofolio
-My Online Portfolio
+My Online Portfolio  serves as my way to demonstrate the competencies I listed on my resume or talk about in my interviews, as well as entry point for every projects that I've created.
