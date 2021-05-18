@@ -1,5 +1,5 @@
 
-# my-online-portofolio
+# my-online-portfolio
 
 ![GitHub contributors](https://img.shields.io/github/contributors/MarionJayMBalugo/my-online-portofolio?color=%2376EE00&label=project%20contributors&logo=Github&style=flat-square)
 
