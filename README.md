@@ -26,8 +26,9 @@
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
     <a href="https://twitter.com/intent/follow?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+            alt="follow on Facebook"></a>
 </p>
+
 # my-online-portofolio
 My Online Portfolio  serves as my way to demonstrate the competencies I listed on my resume or talk about in my interviews, as well as this serves as entry point for every projects that I've created.
