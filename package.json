@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/MarionJayMBalugo/my-online-portfolio/issues"
   },
-  "homepage": "https://github.com/MarionJayMBalugo/my-online-portfolio#readme"
+  "homepage": "https://github.com/MarionJayMBalugo/my-online-portfolio#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0"
+  }
 }
