@@ -1,0 +1,3 @@
+#!C:/Program\ Files/Git/usr/bin/sh.exe
+echo -e "Please include a useful commit message!" 
+exec powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\.git\hooks\pre-commit.ps1"
