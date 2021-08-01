@@ -1,5 +1,6 @@
 
 # my-online-portfolio
+[![macos-catalina](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://www.apple.com/macos/catalina-preview)
 ![GitHub contributors](https://img.shields.io/github/contributors/MarionJayMBalugo/my-online-portfolio?color=%2300FF00)
 ![GitHub contributors](https://img.shields.io/github/contributors/MarionJayMBalugo/my-online-portofolio?color=%2376EE00&label=project%20contributors&logo=Github&style=flat-square)
 
